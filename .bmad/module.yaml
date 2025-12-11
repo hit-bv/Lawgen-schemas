@@ -1,0 +1,14 @@
+---
+bmad_version: "6.0"
+module: "hit-bv-orchestration"
+repo: "Lawgen-schemas"
+role: "schema-repository"
+agents:
+  - leon-lawgen
+config:
+  state_directory: "_state"
+  focus: "juridische-domeinschemas"
+claude_model_mapping:
+  quick_flow: "haiku"
+  bmad_method: "sonnet"
+  enterprise: "opus"
