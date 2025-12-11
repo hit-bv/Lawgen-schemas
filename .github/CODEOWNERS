@@ -1,0 +1,4 @@
+# Lawgen-schemas CODEOWNERS
+/.claude/                     @dirkjan
+/.bmad/                       @dirkjan
+/.github/workflows/           @dirkjan

@@ -1,0 +1,10 @@
+# Claude Code local settings (user-specific permissions)
+.claude/settings.local.json
+
+# BMAD state files
+.bmad/_state/*.state.json
+.bmad/_state/*.lock
+
+# OS artifacts
+.DS_Store
+Thumbs.db
