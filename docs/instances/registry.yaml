@@ -22,10 +22,10 @@ instances:
     agent: SCHEMAS-Claude
     operator: DJ
     platform: windows
-    status: unknown
-    current_branch: null
-    current_work: null
-    last_session_start: null
+    status: active
+    current_branch: main
+    current_work: "multi-instance coordinatie check"
+    last_session_start: "2025-12-18T17:45:00Z"
     last_session_end: null
     last_checkpoint: null
   SCHEMAS-DEL:
