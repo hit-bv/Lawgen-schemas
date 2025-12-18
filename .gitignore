@@ -8,3 +8,7 @@
 # OS artifacts
 .DS_Store
 Thumbs.db
+
+# Local instance identity (machine-specific, do not commit)
+LOCAL_INSTANCE.md
+
