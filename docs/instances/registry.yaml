@@ -2,7 +2,7 @@
 # Automatisch geÃ¼pdatet door /sessie-hervatten en /sessie-afsluiten
 
 version: "1.0"
-last_updated: "2025-12-18T23:45:00Z"
+last_updated: "2025-12-18T20:34:00Z"
 updated_by: "SCHEMAS-MAC"
 
 instances:
@@ -44,12 +44,12 @@ instances:
     agent: SCHEMAS-Claude
     operator: DJ
     platform: macos
-    status: active
-    current_branch: main
-    current_work: "MAC instance check en registry update"
-    last_session_start: "2025-12-18T23:45:00Z"
-    last_session_end: null
-    last_checkpoint: null
+    status: idle
+    current_branch: null
+    current_work: null
+    last_session_start: "2025-12-18T20:30:00Z"
+    last_session_end: "2025-12-18T20:34:00Z"
+    last_checkpoint: "CHECKPOINT-2025-12-18-2034-mac-instance-check.md"
 
 conflicts: []
 
