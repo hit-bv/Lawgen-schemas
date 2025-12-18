@@ -1,0 +1,55 @@
+﻿# Instance Registry - Multi-Instance Coordinatie
+# Automatisch geÃ¼pdatet door /sessie-hervatten en /sessie-afsluiten
+
+version: "1.0"
+last_updated: "2025-12-18T16:33:42Z"
+updated_by: "deploy-script"
+
+instances:
+  SCHEMAS-WITTETOREN:
+    machine: WITTETOREN
+    agent: SCHEMAS-Claude
+    operator: DJ
+    platform: windows
+    status: unknown
+    current_branch: null
+    current_work: null
+    last_session_start: null
+    last_session_end: null
+    last_checkpoint: null
+  SCHEMAS-IENIEMIENIE:
+    machine: IENIEMIENIE
+    agent: SCHEMAS-Claude
+    operator: DJ
+    platform: windows
+    status: unknown
+    current_branch: null
+    current_work: null
+    last_session_start: null
+    last_session_end: null
+    last_checkpoint: null
+  SCHEMAS-DEL:
+    machine: DEL
+    agent: SCHEMAS-Claude
+    operator: DJ
+    platform: windows
+    status: unknown
+    current_branch: null
+    current_work: null
+    last_session_start: null
+    last_session_end: null
+    last_checkpoint: null
+  SCHEMAS-MAC:
+    machine: MAC
+    agent: SCHEMAS-Claude
+    operator: DJ
+    platform: macos
+    status: unknown
+    current_branch: null
+    current_work: null
+    last_session_start: null
+    last_session_end: null
+    last_checkpoint: null
+
+conflicts: []
+
