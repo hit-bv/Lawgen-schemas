@@ -11,12 +11,12 @@ instances:
     agent: SCHEMAS-Claude
     operator: DJ
     platform: windows
-    status: unknown
+    status: idle
     current_branch: null
     current_work: null
-    last_session_start: null
-    last_session_end: null
-    last_checkpoint: null
+    last_session_start: "2025-12-18T10:00:00Z"
+    last_session_end: "2025-12-18T11:00:00Z"
+    last_checkpoint: "CHECKPOINT-2025-12-18-1100-multi-instance-check.md"
   SCHEMAS-IENIEMIENIE:
     machine: IENIEMIENIE
     agent: SCHEMAS-Claude
